@@ -39,6 +39,10 @@ public class EjemploUsoFich {
             flectura.close();
             fescritura.close();
         }
+        /*
+         * adawdoalwmnoafnmownaonwfcoawkmcn
+         * awoldoanwdoawmdpoiawmdomawmdikwdnxloa
+         * */
         
         
     }
